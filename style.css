@@ -17,5 +17,5 @@
     color: rgb(255, 255, 255);
 }
 .fatores-plantio{
-    justify-content: left;
+    list-style: none;
 }
