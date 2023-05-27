@@ -8,7 +8,7 @@
 }
 
 .cabecalho{
-    justify-content: flex-end;
+    display: flexs;
     background-image: linear-gradient(#2b5e32, #1cd334);
 }
 
