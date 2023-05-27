@@ -8,7 +8,7 @@
 }
 
 .cabecalho{
-    justify-self: start;
+    justify-content: center;
     background-image: linear-gradient(#2b5e32, #1cd334);
 }
 
