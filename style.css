@@ -5,10 +5,9 @@
     
 .cabecalho{
     justify-content: baseline;
-    background-color:(#1cd334);
+    background-image: linear-gradient(#2b5e32, #1cd334);
 }
 .cabecalho2{
-    background-image: linear-gradient(#1cd334, #387740);
+    background-image: linear-gradient(#1cd334,);
     color: rgb(255, 255, 255);
-    width: 0px 0px 0px 20px;
 }
