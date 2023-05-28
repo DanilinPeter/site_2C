@@ -12,8 +12,13 @@
     display: flex;
     background-image: linear-gradient(#2b5e32, #1cd334);
     padding: 24px 24px;
+    align-items: center;
 }
 
+.cabecalho-ti{
+    display: flex;
+    align-items: center;
+}
 
 .cabecalho2{
     background-color: (#1cd334,);
