@@ -5,6 +5,7 @@
 
 .pimentas-jogadas{
     width: 12%;
+    padding: 0 24px;
 }
 
 .cabecalho{
@@ -16,13 +17,9 @@
     text-align: left;
 }
 
-.segundo-ano{
-    align-items: center;
-}
-
 .ano-imagem{
     display: flex;
-    padding: 0 24px;
+    align-items: center;
 }
 
 .cabecalho2{
