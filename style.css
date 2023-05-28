@@ -16,6 +16,10 @@
     text-align: left;
 }
 
+.segundo-ano{
+    align-items: center;
+}
+
 .ano-imagem{
     display: flex;
 }
