@@ -22,6 +22,7 @@
 
 .ano-imagem{
     display: flex;
+    padding: 0 24px;
 }
 
 .cabecalho2{
