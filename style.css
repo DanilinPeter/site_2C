@@ -18,6 +18,7 @@
 .cabecalho-ti{
     display: flex;
     align-items: center;
+    padding: 24px 24px;
 }
 
 .cabecalho2{
