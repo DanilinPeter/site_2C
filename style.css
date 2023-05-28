@@ -13,7 +13,7 @@
     background-image: linear-gradient(#2b5e32, #1cd334);
     padding: 24px 24px;
     align-items: center;
-    justify-content: space-around;
+    justify-content: left;
 }
 
 .cabecalho2{
