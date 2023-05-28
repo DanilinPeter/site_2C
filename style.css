@@ -15,11 +15,6 @@
     align-items: center;
 }
 
-.cabecalho-ti{
-    display: flex;
-    align-items: center;
-}
-
 .cabecalho-titulo{
     text-align: center;
 }
