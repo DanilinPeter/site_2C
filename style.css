@@ -1,15 +1,16 @@
 * {
     margin: 0%;
     padding: 0%;
+    color: rgb(255, 255, 255);
+}
+
+.corpo{
+    font-family: 'Playfair', serif;
 }
 
 .pimentas-jogadas{
     width: 13%;
     padding: 0 0 0 50px;
-}
-
-.pimenta-exemplo{
-    width: 20%;
 }
 
 .cabecalho{
@@ -29,22 +30,121 @@
     font-size: 45px;
 }
 
+
+
+
 .cabecalho2{
-    padding: 100px 50px;
+    padding: 100px 0;
     color: rgb(255, 255, 255);
     background-image: linear-gradient(#244d29, #1cd334);
-    display: flex;   
-    justify-content: space-around;
+    display: flex;
+    justify-content: center;
 }
 
 .cabecalho2-div{
     width: 35%;
+    padding-left: 200px;
 }
 
 .pimente-p{
-    padding: 20px 0 35px 0;
+    padding: 15px 0 25px 0;
 }
 
 .pimente-pi{
-    padding: 15px 0;
+    padding: 25px 0;
+}
+
+.ano-letivo{
+    padding: 30px 0 0 0;
+}
+
+.pimenta-exemplo{
+    width: 27.5%;
+    padding-left: 340px;
+    padding-top: 50px;
+}
+
+.grupo-3{
+    font-size: 13px;
+    padding-left: 300px;
+}
+
+.adulta.div{ 
+    justify-content: center;
+}
+
+
+
+
+.semana-1{
+    padding: 75px 0 0 75px;
+    background-image: linear-gradient(#1cd334, #5fc656);
+}
+
+.titulos-semana-1{
+    display: flex;
+}
+
+.semana-1-titulo{
+    font-size: 45px;
+    padding: 0 0 0 200px;
+}
+
+.plantar-titulo{
+    font-size: 45px;
+    padding: 0 0 0 200px;
+}
+
+.copos{
+    display: flex;
+}
+
+.copo-1{
+    width: 15%;
+    padding: 100px 0 0 0;
+}
+
+.copo-1-texto{
+    width: 50%;
+    padding: 100px 0 0 50px;
+}
+
+.copo-1-texto-2{
+    width: 50%;
+    padding: 150px 0 0 50px;
+}
+
+.copos-2{
+    display: flex;
+}
+
+.copo-3{
+    width: 15%;
+    padding: 40px 0 60px 0;
+}
+
+.texto-copo-3{
+   width: 35%;
+   padding: 290px 0 0 50px;
+}
+
+
+
+.semana-2{
+    padding: 75px 0 0 75px;
+    background-image: linear-gradient(#5fc656, #1cd334);
+}
+
+.titulos-semana-2{
+    display: flex;
+}
+
+.semana-2-titulo{
+    font-size: 45px;
+    padding: 0 0 0 200px;
+}
+
+.titulo-vaso{
+    font-size: 45px;
+    padding: 0 0 0 200px;
 }
