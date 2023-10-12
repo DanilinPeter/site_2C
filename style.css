@@ -21,18 +21,18 @@
 }
 
 .segundo-c{
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .cabecalho-titulo{
     align-items: center;
     padding: 0 0 0 150px;
-    font-size: 45px;
+    font-size: 55px;
 }
 
 .insta{
-    width: 10%;
-    padding: 0 0 0 30px;
+    width: 13%;
+    padding: 0 0 0 100px;
 }
 
 .cabecalho2{
@@ -48,16 +48,27 @@
     padding-left: 200px;
 }
 
+.pro{
+    font-size: 45px;
+}
+
 .pimente-p{
     padding: 15px 0 25px 0;
+    font-size: 20px;
+}
+
+.caracteristicas-lista {
+    font-size: 20px;
 }
 
 .pimente-pi{
     padding: 25px 0;
+    font-size: 20px;
 }
 
 .ano-letivo{
     padding: 30px 0 0 0;
+    font-size: 20px;
 }
 
 .pimenta-exemplo{
@@ -67,7 +78,7 @@
 }
 
 .grupo-3{
-    font-size: 13px;
+    font-size: 20px;
     padding-left: 300px;
 }
 
@@ -88,12 +99,12 @@
 }
 
 .semana-1-titulo{
-    font-size: 45px;
+    font-size: 60px;
     padding: 0 0 0 200px;
 }
 
 .plantar-titulo{
-    font-size: 45px;
+    font-size: 60px;
     padding: 0 0 0 200px;
 }
 
@@ -102,18 +113,20 @@
 }
 
 .copo-1{
-    width: 25%;
+    width: 15%;
     padding: 100px 0 0 0;
 }
 
 .copo-1-texto{
     width: 50%;
     padding: 100px 0 0 50px;
+    font-size: 25px;
 }
 
 .copo-1-texto-2{
     width: 50%;
-    padding: 150px 0 0 50px;
+    padding: 185px 0 0 50px;
+    font-size: 18px;
 }
 
 .copos-2{
@@ -127,7 +140,8 @@
 
 .texto-copo-3{
    width: 35%;
-   padding: 290px 0 0 50px;
+   padding: 320px 0 0 50px;
+   font-size: 25px;
 }
 
 
@@ -149,4 +163,12 @@
 .titulo-vaso{
     font-size: 45px;
     padding: 0 0 0 200px;
+}
+
+.rodape{
+    background-color: #5fc656;
+}
+
+.ultimo{
+    padding: 0 0 0 480px;
 }
